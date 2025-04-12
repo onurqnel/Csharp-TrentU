@@ -1,2 +1,2 @@
 # Fall2024 Trent University 
-**COIS1020H** Assignments and labs with Dr. Richard Hurley.
+Sequencing, Selection, Iteration, Data Types, Expressions, Arrays, Object-Oriented Programming, Classes, Methods, Inheritance, Polymorphism with Dr. Richard Hurley.
